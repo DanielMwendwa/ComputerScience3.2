@@ -1,0 +1,12 @@
+c:\users\student.admin-pc.001\documents\visual studio 2010\Projects\ListBox\ListBox\Bin\Debug\ApplicationIcon.png
+c:\users\student.admin-pc.001\documents\visual studio 2010\Projects\ListBox\ListBox\Bin\Debug\Background.png
+c:\users\student.admin-pc.001\documents\visual studio 2010\Projects\ListBox\ListBox\Bin\Debug\ListBox.dll
+c:\users\student.admin-pc.001\documents\visual studio 2010\Projects\ListBox\ListBox\Bin\Debug\ListBox.pdb
+c:\users\student.admin-pc.001\documents\visual studio 2010\Projects\ListBox\ListBox\Bin\Debug\AppManifest.xaml
+c:\users\student.admin-pc.001\documents\visual studio 2010\Projects\ListBox\ListBox\Bin\Debug\ListBox.xap
+c:\users\student.admin-pc.001\documents\visual studio 2010\Projects\ListBox\ListBox\obj\Debug\App.g.i.cs
+c:\users\student.admin-pc.001\documents\visual studio 2010\Projects\ListBox\ListBox\obj\Debug\MainPage.g.i.cs
+c:\users\student.admin-pc.001\documents\visual studio 2010\Projects\ListBox\ListBox\obj\Debug\ListBox.g.resources
+c:\users\student.admin-pc.001\documents\visual studio 2010\Projects\ListBox\ListBox\obj\Debug\ListBox.dll
+c:\users\student.admin-pc.001\documents\visual studio 2010\Projects\ListBox\ListBox\obj\Debug\ListBox.pdb
+c:\users\student.admin-pc.001\documents\visual studio 2010\Projects\ListBox\ListBox\obj\Debug\XapCacheFile.xml

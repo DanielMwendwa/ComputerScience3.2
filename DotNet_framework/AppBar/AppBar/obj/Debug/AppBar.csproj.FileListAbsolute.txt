@@ -1,0 +1,12 @@
+c:\users\student.admin-pc.001\documents\visual studio 2010\Projects\AppBar\AppBar\Bin\Debug\ApplicationIcon.png
+c:\users\student.admin-pc.001\documents\visual studio 2010\Projects\AppBar\AppBar\Bin\Debug\Background.png
+c:\users\student.admin-pc.001\documents\visual studio 2010\Projects\AppBar\AppBar\Bin\Debug\AppBar.dll
+c:\users\student.admin-pc.001\documents\visual studio 2010\Projects\AppBar\AppBar\Bin\Debug\AppBar.pdb
+c:\users\student.admin-pc.001\documents\visual studio 2010\Projects\AppBar\AppBar\Bin\Debug\AppManifest.xaml
+c:\users\student.admin-pc.001\documents\visual studio 2010\Projects\AppBar\AppBar\Bin\Debug\AppBar.xap
+c:\users\student.admin-pc.001\documents\visual studio 2010\Projects\AppBar\AppBar\obj\Debug\App.g.i.cs
+c:\users\student.admin-pc.001\documents\visual studio 2010\Projects\AppBar\AppBar\obj\Debug\MainPage.g.i.cs
+c:\users\student.admin-pc.001\documents\visual studio 2010\Projects\AppBar\AppBar\obj\Debug\AppBar.g.resources
+c:\users\student.admin-pc.001\documents\visual studio 2010\Projects\AppBar\AppBar\obj\Debug\AppBar.dll
+c:\users\student.admin-pc.001\documents\visual studio 2010\Projects\AppBar\AppBar\obj\Debug\AppBar.pdb
+c:\users\student.admin-pc.001\documents\visual studio 2010\Projects\AppBar\AppBar\obj\Debug\XapCacheFile.xml

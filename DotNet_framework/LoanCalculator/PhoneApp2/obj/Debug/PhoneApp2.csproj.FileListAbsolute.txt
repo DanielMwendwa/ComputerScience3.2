@@ -1,0 +1,12 @@
+C:\Users\STUDENT.Admin-PC.003\Downloads\Omari\LoanCalculator\PhoneApp2\Bin\Debug\ApplicationIcon.png
+C:\Users\STUDENT.Admin-PC.003\Downloads\Omari\LoanCalculator\PhoneApp2\Bin\Debug\Background.png
+C:\Users\STUDENT.Admin-PC.003\Downloads\Omari\LoanCalculator\PhoneApp2\Bin\Debug\PhoneApp2.dll
+C:\Users\STUDENT.Admin-PC.003\Downloads\Omari\LoanCalculator\PhoneApp2\Bin\Debug\PhoneApp2.pdb
+C:\Users\STUDENT.Admin-PC.003\Downloads\Omari\LoanCalculator\PhoneApp2\Bin\Debug\AppManifest.xaml
+C:\Users\STUDENT.Admin-PC.003\Downloads\Omari\LoanCalculator\PhoneApp2\Bin\Debug\PhoneApp2.xap
+C:\Users\STUDENT.Admin-PC.003\Downloads\Omari\LoanCalculator\PhoneApp2\obj\Debug\App.g.i.cs
+C:\Users\STUDENT.Admin-PC.003\Downloads\Omari\LoanCalculator\PhoneApp2\obj\Debug\MainPage.g.i.cs
+C:\Users\STUDENT.Admin-PC.003\Downloads\Omari\LoanCalculator\PhoneApp2\obj\Debug\PhoneApp2.g.resources
+C:\Users\STUDENT.Admin-PC.003\Downloads\Omari\LoanCalculator\PhoneApp2\obj\Debug\PhoneApp2.dll
+C:\Users\STUDENT.Admin-PC.003\Downloads\Omari\LoanCalculator\PhoneApp2\obj\Debug\PhoneApp2.pdb
+C:\Users\STUDENT.Admin-PC.003\Downloads\Omari\LoanCalculator\PhoneApp2\obj\Debug\XapCacheFile.xml

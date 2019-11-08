@@ -1,0 +1,12 @@
+C:\Users\Guest 2\Desktop\1032425\Grading\Grading\Bin\Debug\ApplicationIcon.png
+C:\Users\Guest 2\Desktop\1032425\Grading\Grading\Bin\Debug\Background.png
+C:\Users\Guest 2\Desktop\1032425\Grading\Grading\Bin\Debug\Grading.dll
+C:\Users\Guest 2\Desktop\1032425\Grading\Grading\Bin\Debug\Grading.pdb
+C:\Users\Guest 2\Desktop\1032425\Grading\Grading\Bin\Debug\AppManifest.xaml
+C:\Users\Guest 2\Desktop\1032425\Grading\Grading\Bin\Debug\Grading.xap
+C:\Users\Guest 2\Desktop\1032425\Grading\Grading\obj\Debug\App.g.i.cs
+C:\Users\Guest 2\Desktop\1032425\Grading\Grading\obj\Debug\MainPage.g.i.cs
+C:\Users\Guest 2\Desktop\1032425\Grading\Grading\obj\Debug\Grading.g.resources
+C:\Users\Guest 2\Desktop\1032425\Grading\Grading\obj\Debug\Grading.dll
+C:\Users\Guest 2\Desktop\1032425\Grading\Grading\obj\Debug\Grading.pdb
+C:\Users\Guest 2\Desktop\1032425\Grading\Grading\obj\Debug\XapCacheFile.xml

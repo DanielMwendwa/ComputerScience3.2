@@ -1,0 +1,12 @@
+c:\users\student.admin-pc.001\documents\visual studio 2010\Projects\PhotoSelector\PhotoSelector\Bin\Debug\ApplicationIcon.png
+c:\users\student.admin-pc.001\documents\visual studio 2010\Projects\PhotoSelector\PhotoSelector\Bin\Debug\Background.png
+c:\users\student.admin-pc.001\documents\visual studio 2010\Projects\PhotoSelector\PhotoSelector\Bin\Debug\PhotoSelector.dll
+c:\users\student.admin-pc.001\documents\visual studio 2010\Projects\PhotoSelector\PhotoSelector\Bin\Debug\PhotoSelector.pdb
+c:\users\student.admin-pc.001\documents\visual studio 2010\Projects\PhotoSelector\PhotoSelector\Bin\Debug\AppManifest.xaml
+c:\users\student.admin-pc.001\documents\visual studio 2010\Projects\PhotoSelector\PhotoSelector\Bin\Debug\PhotoSelector.xap
+c:\users\student.admin-pc.001\documents\visual studio 2010\Projects\PhotoSelector\PhotoSelector\obj\Debug\App.g.i.cs
+c:\users\student.admin-pc.001\documents\visual studio 2010\Projects\PhotoSelector\PhotoSelector\obj\Debug\MainPage.g.i.cs
+c:\users\student.admin-pc.001\documents\visual studio 2010\Projects\PhotoSelector\PhotoSelector\obj\Debug\PhotoSelector.g.resources
+c:\users\student.admin-pc.001\documents\visual studio 2010\Projects\PhotoSelector\PhotoSelector\obj\Debug\PhotoSelector.dll
+c:\users\student.admin-pc.001\documents\visual studio 2010\Projects\PhotoSelector\PhotoSelector\obj\Debug\PhotoSelector.pdb
+c:\users\student.admin-pc.001\documents\visual studio 2010\Projects\PhotoSelector\PhotoSelector\obj\Debug\XapCacheFile.xml

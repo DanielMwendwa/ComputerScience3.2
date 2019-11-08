@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <canvas id="myCanvas" width="578" height="200"></canvas>
+</body>
+<style>
+    body {
+        margin: 0px;
+        padding: 0px;
+    }
+</style>
+<script>
+    var canvas = document.getElementById('myCanvas')
+    var context  = canvas.getContext('2d');
+    context.beginPath();
+    // context.arc(
+    //     x = canvas.width / 2,
+    //     y = canvas.height / 2, 
+    //     radius = 75, 
+    //     Math.PI / 180 * (startAngle = 20), 
+    //     Math.PI / 180 * (endAngle = 180), 
+    //     anticlockwise = false
+    // );
+    // context.arcTo(x1=150, y1=50, x2=100, y2=150, radius=100);
+    
+    context.lineWidth=15;
+    context.strokeStyle='black';
+    context.stroke();
+</script>
+</html>

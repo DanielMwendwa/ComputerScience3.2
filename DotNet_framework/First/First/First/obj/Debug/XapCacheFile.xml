@@ -1,0 +1,8 @@
+﻿<xapCache source="D:\First\First\First\Bin\Debug\First_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="03/11/2019 16:41:48">
+  <file source="D:\First\First\First\obj\Debug\First.dll" archivePath="First.dll" lastWriteTime="03/11/2019 16:41:46" />
+  <file source="D:\First\First\First\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="23/09/2019 09:12:40" />
+  <file source="D:\First\First\First\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="23/09/2019 09:46:24" />
+  <file source="D:\First\First\First\Bin\Debug\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="23/09/2019 09:12:40" />
+  <file source="D:\First\First\First\Bin\Debug\Background.png" archivePath="Background.png" lastWriteTime="23/09/2019 09:12:40" />
+  <file source="D:\First\First\First\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="03/11/2019 16:41:48" />
+</xapCache>

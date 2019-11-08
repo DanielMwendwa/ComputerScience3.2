@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+</head>
+<body>
+    <canvas id="myCanvas" width="578" height="200"></canvas>
+</body>
+<style>
+    body {
+        margin: 0px;
+        padding: 0px;
+    }
+</style>
+<script>
+    var canvas = document.getElementById('myCanvas');
+    var context = canvas.getContext('2d');
+    context.font='10px sans-serif';
+    context.fillStyle='blue';
+    context.fillText("Welcome to 2d Graphics", 100, 100);
+</script>
+</html>
