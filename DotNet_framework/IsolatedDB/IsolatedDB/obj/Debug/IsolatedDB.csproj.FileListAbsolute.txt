@@ -1,0 +1,12 @@
+C:\Users\Student.Admin-PC.001\Desktop\assgn\IsolatedDB\IsolatedDB\obj\Debug\App.g.i.cs
+C:\Users\Student.Admin-PC.001\Desktop\assgn\IsolatedDB\IsolatedDB\obj\Debug\MainPage.g.i.cs
+C:\Users\Student.Admin-PC.001\Desktop\assgn\IsolatedDB\IsolatedDB\obj\Debug\IsolatedDB.g.resources
+C:\Users\Student.Admin-PC.001\Desktop\assgn\IsolatedDB\IsolatedDB\Bin\Debug\ApplicationIcon.png
+C:\Users\Student.Admin-PC.001\Desktop\assgn\IsolatedDB\IsolatedDB\Bin\Debug\Background.png
+C:\Users\Student.Admin-PC.001\Desktop\assgn\IsolatedDB\IsolatedDB\Bin\Debug\IsolatedDB.dll
+C:\Users\Student.Admin-PC.001\Desktop\assgn\IsolatedDB\IsolatedDB\Bin\Debug\IsolatedDB.pdb
+C:\Users\Student.Admin-PC.001\Desktop\assgn\IsolatedDB\IsolatedDB\Bin\Debug\AppManifest.xaml
+C:\Users\Student.Admin-PC.001\Desktop\assgn\IsolatedDB\IsolatedDB\Bin\Debug\IsolatedDB.xap
+C:\Users\Student.Admin-PC.001\Desktop\assgn\IsolatedDB\IsolatedDB\obj\Debug\IsolatedDB.dll
+C:\Users\Student.Admin-PC.001\Desktop\assgn\IsolatedDB\IsolatedDB\obj\Debug\IsolatedDB.pdb
+C:\Users\Student.Admin-PC.001\Desktop\assgn\IsolatedDB\IsolatedDB\obj\Debug\XapCacheFile.xml

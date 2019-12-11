@@ -1,0 +1,77 @@
+<!-- M x,y moveto Moves pen to specified point x,y without drawing.
+m x,y moveto Moves pen to specified point x,y relative to current pen location,
+without drawing.
+L x,y lineto Draws a line from current pen location to specified point x,y .
+l x,y lineto Draws a line from current pen location to specified point x,y relative
+to current pen location.
+H x horizontal
+lineto Draws a horizontal line to the point defined by
+(specified x, pens current y).
+horizontal
+lineto Draws a horizontal line to the point defined by
+(pens current x + specified x, pens current y). The x is relative to the
+current pens x position.
+x
+h
+V y vertical lineto Draws a vertical line to the point defined by
+(pens current x, specified y).
+v y vertical lineto Draws a vertical line to the point defined by
+(pens current x, pens current y + specified y). The y is relative to the
+pens current y-position.
+C x1,y1
+x2,y2 x,y curveto Draws a cubic Bezier curve from current pen point to x,y. x1,y1 and
+x2,y2 are start and end control points of the curve, controlling how
+it bends.
+c x1,y1
+x2,y2 x,y curveto Same as C, but interprets coordinates relative to current pen point.
+S x2,y2 x,y shorthand /
+smooth
+curveto Draws a cubic Bezier curve from current pen point to x,y. x2,y2 is
+the end control point. The start control point is is assumed to be the
+same as the end control point of the previous curve.
+s x2,y2 x,y shorthand /
+smooth
+curveto Same as S, but interprets coordinates relative to current pen point.12
+Q x1,y1 x,y quadratic
+Draws a quadratic Bezier curve from current pen point to x,y. x1,y1
+Bezier curveto is the control point controlling how the curve bends.
+q x1,y1 x,y quadratic
+Same as Q, but interprets coordinates relative to current pen point.
+Bezier curveto
+T x,y shorthand /
+Draws a quadratic Bezier curve from current pen point to x,y. The
+smooth
+control point is assumed to be the same as the last control point
+quadratic
+used.
+Bezier curveto
+t x,y shorthand /
+Same as T, but interprets coordinates relative to current pen point.
+smooth
+quadratic
+Bezier curveto
+A rx,ry
+elliptical arc
+x-axis-rota
+tion
+large-arc-
+flag,
+sweepflag
+x,y Draws an elliptical arc from the current point to the point x,y. rx and
+ry are the elliptical radius in x and y direction.
+The x-rotation determines how much the arc is to be rotated around
+the x-axis. It only seems to have an effect when rx and ry have
+different values.
+The large-arc-flag doesn't seem to be used (can be either 0 or 1).
+Neither value (0 or 1) changes the arc.
+The sweep-flag determines the direction to draw the arc in.
+a rx,ry
+elliptical arc
+x-axis-rota
+tion
+large-arc-
+flag,
+sweepflag
+x,y Same as A, but interprets coordinates relative to current pen point.
+Z closepath Closes the path by drawing a line from current point to first point.
+z closepath Closes the path by drawing a line from current point to first point. -->

@@ -1,0 +1,13 @@
+c:\users\student.admin-pc.001\documents\visual studio 2010\Projects\Quiz\Quiz\Bin\Debug\ApplicationIcon.png
+c:\users\student.admin-pc.001\documents\visual studio 2010\Projects\Quiz\Quiz\Bin\Debug\Background.png
+c:\users\student.admin-pc.001\documents\visual studio 2010\Projects\Quiz\Quiz\Bin\Debug\Quiz.dll
+c:\users\student.admin-pc.001\documents\visual studio 2010\Projects\Quiz\Quiz\Bin\Debug\Quiz.pdb
+c:\users\student.admin-pc.001\documents\visual studio 2010\Projects\Quiz\Quiz\Bin\Debug\AppManifest.xaml
+c:\users\student.admin-pc.001\documents\visual studio 2010\Projects\Quiz\Quiz\Bin\Debug\Quiz.xap
+c:\users\student.admin-pc.001\documents\visual studio 2010\Projects\Quiz\Quiz\obj\Debug\App.g.i.cs
+c:\users\student.admin-pc.001\documents\visual studio 2010\Projects\Quiz\Quiz\obj\Debug\MainPage.g.i.cs
+c:\users\student.admin-pc.001\documents\visual studio 2010\Projects\Quiz\Quiz\obj\Debug\Quiz.g.resources
+c:\users\student.admin-pc.001\documents\visual studio 2010\Projects\Quiz\Quiz\obj\Debug\Quiz.dll
+c:\users\student.admin-pc.001\documents\visual studio 2010\Projects\Quiz\Quiz\obj\Debug\Quiz.pdb
+c:\users\student.admin-pc.001\documents\visual studio 2010\Projects\Quiz\Quiz\obj\Debug\XapCacheFile.xml
+c:\users\student.admin-pc.001\documents\visual studio 2010\Projects\Quiz\Quiz\obj\Debug\search.g.i.cs
